@@ -1,11 +1,7 @@
 {
-  "name": "desafio01-app-openweathermap",
+  "name": "api-openweathermap",
   "version": "1.0.0",
-  "description": "app visualização metereológica",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "description": "api listando dados metereológicos",
+  "author": "sabrinassantos",
   "license": "ISC"
 }
