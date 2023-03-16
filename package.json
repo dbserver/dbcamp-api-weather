@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "api listando dados metereológicos",
   "author": "sabrinassantos",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  }
 }
